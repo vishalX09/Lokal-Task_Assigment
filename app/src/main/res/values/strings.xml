@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products">Products</string>
+    <string name="show_more">Show More...</string>
+    <string name="stock">Stock :</string>
+    <string name="rating">Rating :</string>
+    <string name="price">Price :</string>
+    <string name="discount">Discount :</string>
+    <string name="brand">Brand :</string>
+    <string name="category">Category :</string>
+    <string name="ratings">Ratings</string>
+</resources>
